@@ -12,7 +12,6 @@ Cấu hình Nginx chạy song song hai trang web tĩnh độc lập trên cùng 
 - Nhà cung cấp VPS: azPVS (gói Cheap 2)
 - Hệ điều hành: Ubuntu 22.04 LTS
 - Web server: Nginx 1.18.0
-- IP máy chủ: `160.187.229.76`
 
 ## Các file trong thư mục này
 - `multi-port.conf`: cấu hình Nginx gồm 2 server block (đặt tại `/etc/nginx/sites-available/multi-port.conf`)
